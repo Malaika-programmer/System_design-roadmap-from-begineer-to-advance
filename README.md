@@ -40,7 +40,7 @@ System Design Interviews
 
 ## Topics
 
--   Computer Architecture
+-   # [🖥️ Computer Architecture](https://github.com/Malaika-programmer/Computer-Architectur)
 -   CPU
 -   RAM
 -   SSD vs HDD
